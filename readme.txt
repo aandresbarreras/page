@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Thanks for downloading this theme! to u
 
 Theme Name: Medicio
 Theme URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
