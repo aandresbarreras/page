@@ -239,6 +239,7 @@ Top area
 	color: #fff;
 	padding-top: 10px;
 	padding-bottom: 10px;
+    
 }
 
 .top-area.top-padding {
@@ -283,6 +284,7 @@ Navigation
 	-webkit-box-shadow: 0 1px 6px rgba(0,0,0,.2);
 	-moz-box-shadow: 0 1px 6px rgba(0,0,0,.2);
 	-o-box-shadow: 0 1px 6px rgba(0,0,0,.2);
+    
 }
 
 .navbar.navbar-custom .navigation {
